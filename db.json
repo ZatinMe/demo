@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"id":"c8c6a667-d943-4a55-ac2c-83a9782c6427","item":"Zee","rate":142,"quantity":2,"total":284},{"id":"a3c1a4a9-f7b5-4957-ba0d-ff75012eff15","item":"Zee","rate":142,"quantity":2,"total":284}]
